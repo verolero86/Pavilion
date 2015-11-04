@@ -55,7 +55,11 @@
 #  ###################################################################
 
 
-"""  Implementation of PBS Job Controller  """
+"""  
+  Implementation of PBS Job Controller: 
+  This controller is based on the Moab Job Controller 
+  PBS version by V. Vergara Larrea (vergaravg@ornl.gov) 
+"""
 
 import sys
 import os

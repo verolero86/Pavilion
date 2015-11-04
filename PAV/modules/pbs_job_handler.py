@@ -56,7 +56,13 @@
 
 """
 # Functions similar to setUpandRun in Gazebo.
-# Application that is called by msub.
+# Application that is called by qsub.
+"""
+
+"""
+  Implementation for PBS: 
+  This set of functions is based on the Moab set. 
+  PBS version by V. Vergara Larrea (vergaravg@ornl.gov) 
 """
 
 import sys
